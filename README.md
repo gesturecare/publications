@@ -20,6 +20,9 @@ By publishing these documents openly, we aim to:
 | ID | Title | Date | Document |
 |---|---|---|---|
 | GC-DP-2026-001 | AI-Enabled Wearable and Software Systems for Continuous Mental Health Monitoring, Behavioral Insight Generation, and Collaborative Elder Care Coordination | February 25, 2026 | [PDF](Defensive_Publication_GC-DP-2026-001.pdf) |
+| GC-DP-2026-002 | Wearable-Based Emotional State, Anxiety, Mood Change, and Dementia-Related Neuropsychiatric Monitoring | February 25, 2026 | [PDF](research/Defensive_Publication_Anxiety_Dementia_v1.pdf) |
+| GC-DP-2026-003 | Two-Stage Pipeline for Cognitive and Neuropsychiatric Change Detection via Multimodal Passive Sensing | February 26, 2026 | [Markdown](research/2%20statge%20pipeline%20to%20detect%20cognitive%20issues.md) |
+| GC-DP-2026-004 | AI-Enabled Mental Health Monitoring: Research Citations and Supporting Literature | February 26, 2026 | [DOCX](research/AI_MentalHealth_Citations.docx) |
 
 ## Areas of Development
 
